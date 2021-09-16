@@ -10,9 +10,9 @@ import javax.persistence.Id;
 public class Product {
 
     @Id
-    private Long productId;
+    private Long id;
 
-    private String productName;
+    private String name;
 
     private String price;
 }
