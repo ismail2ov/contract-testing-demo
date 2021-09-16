@@ -1,0 +1,9 @@
+description: yaml contract
+request:
+    method: GET
+    url: /products
+response:
+    status: 200
+    headers:
+        Content-Type: application/json
+    bodyFromFile: response/products.json

@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "productId": "17035535",
+      "productName": "Cheap product",
+      "price": "9.99 EUR"
+    },
+    {
+      "productId": "17005954",
+      "productName": "Quality product",
+      "price": "29.99 EUR"
+    }
+  ]
+}
