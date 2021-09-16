@@ -1,13 +1,13 @@
 {
   "products": [
     {
-      "productId": "17035535",
-      "productName": "Cheap product",
+      "id": "17035535",
+      "name": "Cheap product",
       "price": "9.99 EUR"
     },
     {
-      "productId": "17005954",
-      "productName": "Quality product",
+      "id": "17005954",
+      "name": "Quality product",
       "price": "29.99 EUR"
     }
   ]
