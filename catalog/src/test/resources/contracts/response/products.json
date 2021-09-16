@@ -3,12 +3,18 @@
     {
       "id": "17035535",
       "name": "Cheap product",
-      "price": "9.99 EUR"
+      "price": {
+        "amount": "9.99",
+        "currency": "EUR"
+      }
     },
     {
       "id": "17005954",
       "name": "Quality product",
-      "price": "29.99 EUR"
+      "price": {
+        "amount": "29.99",
+        "currency": "EUR"
+      }
     }
   ]
 }
