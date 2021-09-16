@@ -2,6 +2,7 @@ package es.devex.catalog.domain;
 
 import lombok.Data;
 
+import javax.persistence.Convert;
 import javax.persistence.Entity;
 import javax.persistence.Id;
 
@@ -14,5 +15,6 @@ public class Product {
 
     private String name;
 
-    private String price;
+    @Convert(converter = PriceConverter.class)
+    private Price price;
 }
