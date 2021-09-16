@@ -9,7 +9,7 @@ public class Product {
 
     private String name;
 
-    private String price;
+    private Price price;
 
     private Integer quantity;
 }
