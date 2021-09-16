@@ -69,6 +69,7 @@
 				<extensions>true</extensions>
 				<configuration>
 					<testFramework>JUNIT5</testFramework>
+					<baseClassForTests>es.devex.catalog.BaseTestClass</baseClassForTests>
 				</configuration>
 			</plugin>
 			<plugin>
